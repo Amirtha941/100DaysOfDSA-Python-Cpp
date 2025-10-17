@@ -34,9 +34,9 @@ car2 = Car()   # another object
 
 Now car1 and car2 are two separate objects of the Car class.
 
-## 🧍‍♀️ 3. What is __init__()?
+## 🧍‍♀️ 3. What is `__init__()`?
 
- __init__ is a constructor method — automatically called when you create a new object.
+ `__init__ `is a constructor method — automatically called when you create a new object.
 
 It’s used to initialize (set up) the object’s data (attributes).
 
@@ -115,7 +115,7 @@ s2.display()   # Name: Kavi, Roll: 102
 |Class	|Blueprint or template	|class Car:|
 |Object	|Instance of class	|car1 = Car()|
 |self|	Refers to current object|	self.name = name|
-|init()|	Constructor to initialize attributes	|def __init__(self, name):|
+|init()|	Constructor to initialize attributes	|def `__init__`(self, name):|
 
 ## ⚙️ 7. Behind the scenes (important to know)
 
