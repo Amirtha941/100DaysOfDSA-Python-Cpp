@@ -27,7 +27,7 @@ The goal of this repository is to:
 
 | Day | Topic | Python | C++ | Notes |Status|
 |-----|--------|--------|------|-------|-----|
-| 1 | Python OOP Basics | ✅ | — | Classes, `__init__`, `self` |Coming soon|
+| 1 | Python OOP Basics | ✅ | — | Classes, `__init__`, `self` |Completed ✅|
 | 2 | C++ OOP Basics | ✅ | ✅ | Constructors, `this` keyword |Coming soon|
 | 3 | Inheritance | ✅ | ✅ | Method overriding |Coming soon|
 | 4 | Binary Tree Intro | ✅ | ✅ | Recursion & traversal |Coming soon|
