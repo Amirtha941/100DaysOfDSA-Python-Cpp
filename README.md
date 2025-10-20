@@ -25,12 +25,12 @@ The goal of this repository is to:
 
 ## 📆 Progress Tracker
 
-| Day | Date|Topic | Python | C++ | Notes |Status|
-|-----|---|--------|--------|------|-------|-----|
-| 1 |17/10/25| Python OOP Basics | ✅ | — | Classes, `__init__`, `self` |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| 2 |18/10/25|C++ OOP Basics | ✅ | ✅ | Constructors, `this` keyword |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| 3 |19/10/25| Python BST implementation|✅ |  | - |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| 4 | Binary Tree Intro | ✅ | ✅ | Recursion & traversal |Coming soon|
+| Day | Date|Topic | Python | C++  |Status|
+|-----|---|--------|--------|------|-----|
+| 1 |17/10/25| Python OOP Basics | ✅ | — |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
+| 2 |18/10/25|C++ OOP Basics |  | ✅  |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
+| 3 |19/10/25| Python BST implementation|✅   | - |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
+| 4 | 20/10/25|Python BST search implementation | ✅ |  |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 5 | Linked List Basics | ⏳ | — | Node creation |Coming soon|
 | ... | ... | ... | ... | ... | ... |
 
